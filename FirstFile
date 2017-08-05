@@ -2,6 +2,7 @@ public class PlzHelp
 {
   public static void main(String[] args)
   {
-    System.out.println("plz do not help");
+    System.out.println("plz help");
+    System.out.println("plz help");
   }
 }
